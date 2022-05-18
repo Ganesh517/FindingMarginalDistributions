@@ -68,4 +68,5 @@ print("The coefficient-correlation %0.4f"%r)
 
 
 # Results and Output : 
+![image](https://github.com/Ganesh517/FindingMarginalDistributions/blob/main/m3.png)
 
